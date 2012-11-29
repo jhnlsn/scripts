@@ -1,0 +1,8 @@
+{
+  "name": "requirejs_tests",
+  "version": "1.0.0",
+  "main": "./path/to/main.css",
+  "dependencies": {
+    "requirejs": "*"
+  }
+}
